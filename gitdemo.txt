@@ -1,1 +1,1 @@
-This is the sample file to push on the github.
+sample file to push on the github.
